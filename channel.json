@@ -1,4 +1,4 @@
-{
+x{
   "code": 0,
   "message": "OK",
   "data": {
@@ -476,7 +476,7 @@
         "languages": "Chinese",
         "is_nsfw": false,
         "logo": "https://live.fanmingming.com/tv/CCTV4K.png",
-        "stream": "https://node1.olelive.com:6443/live/CCTV4KHD/hls.m3u8",
+        "stream": "http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8",
         "status": false,
         "created_at": "0001-01-01T00:00:00Z",
         "updated_at": "0001-01-01T00:00:00Z"
@@ -660,7 +660,7 @@
         "languages": "Chinese",
         "is_nsfw": false,
         "logo": "https://live.fanmingming.com/tv/香港卫视.png",
-        "stream": "https://node1.olelive.com:6443/live/CCTV15HD/hls.m3u8",
+        "stream": "http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8",
         "status": false,
         "created_at": "0001-01-01T00:00:00Z",
         "updated_at": "0001-01-01T00:00:00Z"

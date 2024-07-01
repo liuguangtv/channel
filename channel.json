@@ -720,6 +720,34 @@
         "status": false,
         "created_at": "0001-01-01T00:00:00Z",
         "updated_at": "0001-01-01T00:00:00Z"
+      },
+         {
+        "id": 53,
+        "name": "tvbs",
+        "alt_names": "TVBS",
+        "label": "港澳台",
+        "country": "CN",
+        "languages": "Chinese",
+        "is_nsfw": false,
+        "logo": "https://live.fanmingming.com/tv/TVBS.png",
+        "stream": "https://node1.olelive.com:6443/live/CCTV15HD/hls.m3u8",
+        "status": false,
+        "created_at": "0001-01-01T00:00:00Z",
+        "updated_at": "0001-01-01T00:00:00Z"
+      },
+         {
+        "id": 54,
+        "name": "tvbs",
+        "alt_names": "TVBS",
+        "label": "港澳台",
+        "country": "CN",
+        "languages": "Chinese",
+        "is_nsfw": false,
+        "logo": "https://live.fanmingming.com/tv/TVBS.png",
+        "stream": "https://node1.olelive.com:6443/live/CCTV15HD/hls.m3u8",
+        "status": false,
+        "created_at": "0001-01-01T00:00:00Z",
+        "updated_at": "0001-01-01T00:00:00Z"
       }
     ]
   }

@@ -654,13 +654,13 @@
       {
         "id": 48,
         "name": "HKS",
-        "alt_names": "香港卫视",
+        "alt_names": "凤凰香港",
         "label": "港澳台",
         "country": "CN",
         "languages": "Chinese",
         "is_nsfw": false,
-        "logo": "https://live.fanmingming.com/tv/香港卫视.png",
-        "stream": "http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8",
+        "logo": "https://live.fanmingming.com/tv/凤凰香港台.png",
+        "stream": "https://stream1.freetv.fun/a1e9b719a07884526606598d72537cef8048233381d1bcd4264e1be3db2cf40a.m3u8",
         "status": false,
         "created_at": "0001-01-01T00:00:00Z",
         "updated_at": "0001-01-01T00:00:00Z"

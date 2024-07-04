@@ -420,7 +420,7 @@
         "languages": "Chinese",
         "is_nsfw": false,
         "logo": "https://live.fanmingming.com/tv/CCTV1.png",
-        "stream": "https://z02.ubtvfans.com/live/rx1/200/e5159301cd4aaf84a7f39915d463a106/index.m3u8",
+        "stream": "https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8",
         "status": true,
         "created_at": "0001-01-01T00:00:00Z",
         "updated_at": "0001-01-01T00:00:00Z"
@@ -434,7 +434,7 @@
         "languages": "Chinese",
         "is_nsfw": false,
         "logo": "https://live.fanmingming.com/tv/CCTV2.png",
-        "stream": "https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8",
+        "stream": "https://api.olelive.com/dis/live/CCTV2HD/hls.m3u8",
         "status": true,
         "created_at": "0001-01-01T00:00:00Z",
         "updated_at": "0001-01-01T00:00:00Z"
@@ -462,7 +462,7 @@
         "languages": "Chinese",
         "is_nsfw": false,
         "logo": "https://live.fanmingming.com/tv/CCTV4.png",
-        "stream": "https://node1.olelive.com:6443/live/CCTV4HD/hls.m3u8",
+        "stream": "https://api.olelive.com/dis/live/CCTV4HD/hls.m3u8",
         "status": true,
         "created_at": "0001-01-01T00:00:00Z",
         "updated_at": "0001-01-01T00:00:00Z"
@@ -574,7 +574,7 @@
         "languages": "Chinese",
         "is_nsfw": false,
         "logo": "https://live.fanmingming.com/tv/CCTV10.png",
-        "stream": "https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8",
+        "stream": "https://z02.ubtvfans.com/live/rx1/210/a28130d460715803b16001174421cefd/index.m3u8",
         "status": true,
         "created_at": "0001-01-01T00:00:00Z",
         "updated_at": "0001-01-01T00:00:00Z"
@@ -667,20 +667,34 @@
       },
       {
         "id": 49,
-        "name": "TVB Classic",
-        "alt_names": "TVB经典台",
+        "name": "tvbs",
+        "alt_names": "TVBS",
         "label": "港澳台",
         "country": "CN",
         "languages": "Chinese",
         "is_nsfw": false,
-        "logo": "https://live.fanmingming.com/tv/TVB 经典台.png",
-        "stream": "https://node1.olelive.com:6443/live/CCTV15HD/hls.m3u8",
+        "logo": "https://live.fanmingming.com/tv/TVBS.png",
+        "stream": "http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8",
         "status": true,
         "created_at": "0001-01-01T00:00:00Z",
         "updated_at": "0001-01-01T00:00:00Z"
       },
       {
         "id": 50,
+        "name": "TVB Classic",
+        "alt_names": "TVB经典台",
+        "label": "港澳台",
+        "country": "CN",
+        "languages": "Chinese",
+        "is_nsfw": false,
+        "logo": "https://live.fanmingming.com/tv/TVB经典台.png",
+        "stream": "https://node1.olelive.com:6443/live/CCTV15HD/hls.m3u8",
+        "status": true,
+        "created_at": "0001-01-01T00:00:00Z",
+        "updated_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "id": 51,
         "name": "TVB Jade",
         "alt_names": "TVB翡翠台",
         "label": "港澳台",
@@ -694,7 +708,7 @@
         "updated_at": "0001-01-01T00:00:00Z"
       },
       {
-        "id": 51,
+        "id": 52,
         "name": "TVB Pearl",
         "alt_names": "TVB明珠台",
         "label": "港澳台",
@@ -703,20 +717,6 @@
         "is_nsfw": false,
         "logo": "https://live.fanmingming.com/tv/TVB明珠台.png",
         "stream": "https://z02.ubtvfans.com/live/rx1/2437/43f3e7d06eeb53f3057cb2780fd11a50/index.m3u8",
-        "status": true,
-        "created_at": "0001-01-01T00:00:00Z",
-        "updated_at": "0001-01-01T00:00:00Z"
-      },
-      {
-        "id": 52,
-        "name": "tvbs",
-        "alt_names": "TVBS",
-        "label": "港澳台",
-        "country": "CN",
-        "languages": "Chinese",
-        "is_nsfw": false,
-        "logo": "https://live.fanmingming.com/tv/TVBS.png",
-        "stream": "http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8",
         "status": true,
         "created_at": "0001-01-01T00:00:00Z",
         "updated_at": "0001-01-01T00:00:00Z"

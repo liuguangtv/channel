@@ -476,7 +476,7 @@
         "languages": "Chinese",
         "is_nsfw": false,
         "logo": "https://live.fanmingming.com/tv/CCTV5.png",
-        "stream": "https://stream1.freetv.fun/7ae2773229d40b5442e59be5a1408188314ceddb0ba53f60130fa3a5b0b3bd4d.m3u8",
+        "stream": "https://api.olelive.com/dis/live/CCTV5HD/hls.m3u8",
         "status": true,
         "created_at": "0001-01-01T00:00:00Z",
         "updated_at": "0001-01-01T00:00:00Z"

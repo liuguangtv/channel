@@ -354,6 +354,20 @@
         "updated_at": "0001-01-01T00:00:00Z"
       },
       {
+        "id": 45,
+        "name": "河南卫视",
+        "alt_names": "河南卫视",
+        "label": "卫视",
+        "country": "CN",
+        "languages": "Chinese",
+        "is_nsfw": false,
+        "logo": "https://live.fanmingming.com/tv/河南卫视.png",
+        "stream": "http://bb2b58.netsite.cc/proxy/1919483832/1919483832.m3u8",
+        "status": true,
+        "created_at": "0001-01-01T00:00:00Z",
+        "updated_at": "0001-01-01T00:00:00Z"
+      },
+      {
         "id": 46,
         "name": "海南卫视",
         "alt_names": "海南卫视",

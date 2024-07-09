@@ -420,7 +420,7 @@
         "languages": "Chinese",
         "is_nsfw": false,
         "logo": "https://live.fanmingming.com/tv/CCTV1.png",
-        "stream": "https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8",
+        "stream": "https://z02.ubtvfans.com/live/rx1/2305/33545cc7858137acae827ca84a574951/index.m3u8",
         "status": true,
         "created_at": "0001-01-01T00:00:00Z",
         "updated_at": "0001-01-01T00:00:00Z"
@@ -434,7 +434,7 @@
         "languages": "Chinese",
         "is_nsfw": false,
         "logo": "https://live.fanmingming.com/tv/CCTV2.png",
-        "stream": "http://27.40.16.70:8114/GD_CUCC/G_CCTV-1-CQ.m3u8?Authinfo=F8UQ+EevMmd/nekE5YOOKkjJ6yQpJZ9CGFM9sHS3VdiLvaf2eXKnEWpoNjJ53rwe&Fsv_Tgid=522079b9691f1182&FvSeid=32a768ac32a7764b&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4276&Fsv_chan_hls_se_idx=60&Fsv_TBt=8479203&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-1-CQ&Fsv_CMSID=GD_CUCC",
+        "stream": "https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8",
         "status": true,
         "created_at": "0001-01-01T00:00:00Z",
         "updated_at": "0001-01-01T00:00:00Z"
@@ -462,7 +462,7 @@
         "languages": "Chinese",
         "is_nsfw": false,
         "logo": "https://live.fanmingming.com/tv/CCTV4.png",
-        "stream": "https://api.olelive.com/dis/live/CCTV4HD/hls.m3u8",
+        "stream": "https://node1.olelive.com:6443/live/CCTV4HD/hls.m3u8",
         "status": true,
         "created_at": "0001-01-01T00:00:00Z",
         "updated_at": "0001-01-01T00:00:00Z"
@@ -476,7 +476,21 @@
         "languages": "Chinese",
         "is_nsfw": false,
         "logo": "https://live.fanmingming.com/tv/CCTV5.png",
-        "stream": "https://api.olelive.com/dis/live/CCTV5HD/hls.m3u8",
+        "stream": "https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8",
+        "status": true,
+        "created_at": "0001-01-01T00:00:00Z",
+        "updated_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "id": 7,
+        "name": "CCTV-5+",
+        "alt_names": "CCTV-5+体育赛事",
+        "label": "央视",
+        "country": "CN",
+        "languages": "Chinese",
+        "is_nsfw": false,
+        "logo": "https://live.fanmingming.com/tv/CCTV5+.png",
+        "stream": "https://node1.olelive.com:6443/live/CCTV5+HD/hls.m3u8",
         "status": true,
         "created_at": "0001-01-01T00:00:00Z",
         "updated_at": "0001-01-01T00:00:00Z"
@@ -490,7 +504,7 @@
         "languages": "Chinese",
         "is_nsfw": false,
         "logo": "https://live.fanmingming.com/tv/CCTV6.png",
-        "stream": "https://api.olelive.com/dis/live/CCTV6HD/hls.m3u8",
+        "stream": "https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8",
         "status": true,
         "created_at": "0001-01-01T00:00:00Z",
         "updated_at": "0001-01-01T00:00:00Z"
@@ -518,7 +532,7 @@
         "languages": "Chinese",
         "is_nsfw": false,
         "logo": "https://live.fanmingming.com/tv/CCTV8.png",
-        "stream": "https://api.olelive.com/dis/live/CCTV8HD/hls.m3u8",
+        "stream": "https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8",
         "status": true,
         "created_at": "0001-01-01T00:00:00Z",
         "updated_at": "0001-01-01T00:00:00Z"
@@ -532,7 +546,7 @@
         "languages": "Chinese",
         "is_nsfw": false,
         "logo": "https://live.fanmingming.com/tv/CCTV9.png",
-        "stream": "https://api.olelive.com/dis/live/CCTV9HD/hls.m3u8",
+        "stream": "https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8",
         "status": true,
         "created_at": "0001-01-01T00:00:00Z",
         "updated_at": "0001-01-01T00:00:00Z"
@@ -546,7 +560,7 @@
         "languages": "Chinese",
         "is_nsfw": false,
         "logo": "https://live.fanmingming.com/tv/CCTV10.png",
-        "stream": "https://z02.ubtvfans.com/live/rx1/210/a28130d460715803b16001174421cefd/index.m3u8",
+        "stream": "https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8",
         "status": true,
         "created_at": "0001-01-01T00:00:00Z",
         "updated_at": "0001-01-01T00:00:00Z"
@@ -659,7 +673,7 @@
         "country": "CN",
         "languages": "Chinese",
         "is_nsfw": false,
-        "logo": "https://live.fanmingming.com/tv/TVB 经典台.png",
+        "logo": "https://live.fanmingming.com/tv/TVB经典台.png",
         "stream": "https://node1.olelive.com:6443/live/CCTV15HD/hls.m3u8",
         "status": true,
         "created_at": "0001-01-01T00:00:00Z",

@@ -12,7 +12,7 @@
         "languages": "Chinese",
         "is_nsfw": false,
         "logo": "https://live.fanmingming.com/tv/北京卫视.png",
-        "stream": "https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8",
+        "stream": "https://z02.ubtvfans.com/live/rx1/220/de780f9f4581584d4c9cb4536ea5355f/index.m3u8",
         "status": true,
         "created_at": "0001-01-01T00:00:00Z",
         "updated_at": "0001-01-01T00:00:00Z"
@@ -26,7 +26,7 @@
         "languages": "Chinese",
         "is_nsfw": false,
         "logo": "https://live.fanmingming.com/tv/东方卫视.png",
-        "stream": "https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8",
+        "stream": "https://z02.ubtvfans.com/live/rx1/224/c54ace8dbf76790c64f75dc561d1414a/index.m3u8",
         "status": true,
         "created_at": "0001-01-01T00:00:00Z",
         "updated_at": "0001-01-01T00:00:00Z"
@@ -40,7 +40,7 @@
         "languages": "Chinese",
         "is_nsfw": false,
         "logo": "https://live.fanmingming.com/tv/天津卫视.png",
-        "stream": "https://node1.olelive.com:6443/live/CCTV3HD/hls.m3u8",
+        "stream": "http://xyt.186738613.xyz/lngd.php?id=084&Cf.m3u8",
         "status": true,
         "created_at": "0001-01-01T00:00:00Z",
         "updated_at": "0001-01-01T00:00:00Z"
@@ -54,7 +54,7 @@
         "languages": "Chinese",
         "is_nsfw": false,
         "logo": "https://live.fanmingming.com/tv/重庆卫视.png",
-        "stream": "https://node1.olelive.com:6443/live/CCTV4HD/hls.m3u8",
+        "stream": "http://bb2b58.netsite.cc/proxy/1555601247/1555601247.m3u8",
         "status": true,
         "created_at": "0001-01-01T00:00:00Z",
         "updated_at": "0001-01-01T00:00:00Z"
@@ -68,7 +68,7 @@
         "languages": "Chinese",
         "is_nsfw": false,
         "logo": "https://live.fanmingming.com/tv/吉林卫视.png",
-        "stream": "https://node1.olelive.com:6443/live/CCTV4KHD/hls.m3u8",
+        "stream": "http://bb2b58.netsite.cc/proxy/610385362/610385362.m3u8",
         "status": true,
         "created_at": "0001-01-01T00:00:00Z",
         "updated_at": "0001-01-01T00:00:00Z"
@@ -82,7 +82,7 @@
         "languages": "Chinese",
         "is_nsfw": false,
         "logo": "https://live.fanmingming.com/tv/辽宁卫视.png",
-        "stream": "https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8",
+        "stream": "https://z02.ubtvfans.com/live/rx1/229/d82f9e1c481058d83aa4077519fe70c7/index.m3u8",
         "status": true,
         "created_at": "0001-01-01T00:00:00Z",
         "updated_at": "0001-01-01T00:00:00Z"
@@ -96,7 +96,7 @@
         "languages": "Chinese",
         "is_nsfw": false,
         "logo": "https://live.fanmingming.com/tv/宁夏卫视.png",
-        "stream": "https://node1.olelive.com:6443/live/CCTV5+HD/hls.m3u8",
+        "stream": "http://183.207.248.71/gitv/live1/G_NINGXIA/G_NINGXIA",
         "status": true,
         "created_at": "0001-01-01T00:00:00Z",
         "updated_at": "0001-01-01T00:00:00Z"
@@ -110,7 +110,7 @@
         "languages": "Chinese",
         "is_nsfw": false,
         "logo": "https://live.fanmingming.com/tv/青海卫视.png",
-        "stream": "https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8",
+        "stream": "http://bb2b58.netsite.cc/proxy/1152127449/1152127449.m3u8",
         "status": true,
         "created_at": "0001-01-01T00:00:00Z",
         "updated_at": "0001-01-01T00:00:00Z"
@@ -124,7 +124,7 @@
         "languages": "Chinese",
         "is_nsfw": false,
         "logo": "https://live.fanmingming.com/tv/陕西卫视.png",
-        "stream": "https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8",
+        "stream": "http://bb2b58.netsite.cc/proxy/917851306/917851306.m3u8",
         "status": true,
         "created_at": "0001-01-01T00:00:00Z",
         "updated_at": "0001-01-01T00:00:00Z"
@@ -138,7 +138,7 @@
         "languages": "Chinese",
         "is_nsfw": false,
         "logo": "https://live.fanmingming.com/tv/山西卫视.png",
-        "stream": "https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8",
+        "stream": "http://bb2b58.netsite.cc/proxy/825435414/825435414.m3u8",
         "status": true,
         "created_at": "0001-01-01T00:00:00Z",
         "updated_at": "0001-01-01T00:00:00Z"
@@ -152,7 +152,7 @@
         "languages": "Chinese",
         "is_nsfw": false,
         "logo": "https://live.fanmingming.com/tv/山东卫视.png",
-        "stream": "https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8",
+        "stream": "http://bb2b58.netsite.cc/proxy/1763730718/1763730718.m3u8",
         "status": true,
         "created_at": "0001-01-01T00:00:00Z",
         "updated_at": "0001-01-01T00:00:00Z"
@@ -166,7 +166,7 @@
         "languages": "Chinese",
         "is_nsfw": false,
         "logo": "https://live.fanmingming.com/tv/安徽卫视.png",
-        "stream": "https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8",
+        "stream": "https://z02.ubtvfans.com/live/rx1/2830/6784d3e94e7e5ce76a21d9158379ca95/index.m3u8",
         "status": true,
         "created_at": "0001-01-01T00:00:00Z",
         "updated_at": "0001-01-01T00:00:00Z"
@@ -180,7 +180,7 @@
         "languages": "Chinese",
         "is_nsfw": false,
         "logo": "https://live.fanmingming.com/tv/湖北卫视.png",
-        "stream": "https://node1.olelive.com:6443/live/CCTV11HD/hls.m3u8",
+        "stream": "https://z02.ubtvfans.com/live/rx1/226/55a22545744461ea0ae4b1df0869aade/index.m3u8",
         "status": true,
         "created_at": "0001-01-01T00:00:00Z",
         "updated_at": "0001-01-01T00:00:00Z"
@@ -208,7 +208,7 @@
         "languages": "Chinese",
         "is_nsfw": false,
         "logo": "https://live.fanmingming.com/tv/江西卫视.png",
-        "stream": "https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8",
+        "stream": "http://bb2b58.netsite.cc/proxy/1871199348/1871199348.m3u8",
         "status": true,
         "created_at": "0001-01-01T00:00:00Z",
         "updated_at": "0001-01-01T00:00:00Z"
@@ -222,7 +222,7 @@
         "languages": "Chinese",
         "is_nsfw": false,
         "logo": "https://live.fanmingming.com/tv/江苏卫视.png",
-        "stream": "https://node1.olelive.com:6443/live/CCTV14HD/hls.m3u8",
+        "stream": "https://z02.ubtvfans.com/live/rx1/2829/077e7af98e1de16de437dc2b20634eb0/index.m3u8",
         "status": true,
         "created_at": "0001-01-01T00:00:00Z",
         "updated_at": "0001-01-01T00:00:00Z"
@@ -236,7 +236,7 @@
         "languages": "Chinese",
         "is_nsfw": false,
         "logo": "https://live.fanmingming.com/tv/浙江卫视.png",
-        "stream": "https://node1.olelive.com:6443/live/CCTV15HD/hls.m3u8",
+        "stream": "http://bb2b58.netsite.cc/proxy/1076829733/1076829733.m3u8",
         "status": true,
         "created_at": "0001-01-01T00:00:00Z",
         "updated_at": "0001-01-01T00:00:00Z"
@@ -250,7 +250,7 @@
         "languages": "Chinese",
         "is_nsfw": false,
         "logo": "https://live.fanmingming.com/tv/东南卫视.png",
-        "stream": "https://node1.olelive.com:6443/live/CCTV15HD/hls.m3u8",
+        "stream": "https://z02.ubtvfans.com/live/rx1/228/df0d0f989d2e07d9530a01d006320ea7/index.m3u8",
         "status": true,
         "created_at": "0001-01-01T00:00:00Z",
         "updated_at": "0001-01-01T00:00:00Z"
@@ -264,7 +264,7 @@
         "languages": "Chinese",
         "is_nsfw": false,
         "logo": "https://live.fanmingming.com/tv/广东卫视.png",
-        "stream": "https://node1.olelive.com:6443/live/CCTV15HD/hls.m3u8",
+        "stream": "https://z02.ubtvfans.com/live/rx1/231/4af913dbb7327724e4dfeaf41bfed24d/index.m3u8",
         "status": true,
         "created_at": "0001-01-01T00:00:00Z",
         "updated_at": "0001-01-01T00:00:00Z"
@@ -278,7 +278,7 @@
         "languages": "Chinese",
         "is_nsfw": false,
         "logo": "https://live.fanmingming.com/tv/深圳卫视.png",
-        "stream": "https://node1.olelive.com:6443/live/CCTV15HD/hls.m3u8",
+        "stream": "http://bb2b58.netsite.cc/proxy/1210483979/1210483979.m3u8",
         "status": true,
         "created_at": "0001-01-01T00:00:00Z",
         "updated_at": "0001-01-01T00:00:00Z"
@@ -292,7 +292,7 @@
         "languages": "Chinese",
         "is_nsfw": false,
         "logo": "https://live.fanmingming.com/tv/广西卫视.png",
-        "stream": "https://node1.olelive.com:6443/live/CCTV15HD/hls.m3u8",
+        "stream": "http://bb2b58.netsite.cc/proxy/1770922842/1770922842.m3u8",
         "status": true,
         "created_at": "0001-01-01T00:00:00Z",
         "updated_at": "0001-01-01T00:00:00Z"
@@ -306,7 +306,7 @@
         "languages": "Chinese",
         "is_nsfw": false,
         "logo": "https://live.fanmingming.com/tv/云南卫视.png",
-        "stream": "https://node1.olelive.com:6443/live/CCTV15HD/hls.m3u8",
+        "stream": "http://bb2b58.netsite.cc/proxy/1057712184/1057712184.m3u8",
         "status": true,
         "created_at": "0001-01-01T00:00:00Z",
         "updated_at": "0001-01-01T00:00:00Z"
@@ -320,7 +320,7 @@
         "languages": "Chinese",
         "is_nsfw": false,
         "logo": "https://live.fanmingming.com/tv/贵州卫视.png",
-        "stream": "https://node1.olelive.com:6443/live/CCTV15HD/hls.m3u8",
+        "stream": "http://bb2b58.netsite.cc/proxy/1478277200/1478277200.m3u8",
         "status": true,
         "created_at": "0001-01-01T00:00:00Z",
         "updated_at": "0001-01-01T00:00:00Z"
@@ -334,7 +334,21 @@
         "languages": "Chinese",
         "is_nsfw": false,
         "logo": "https://live.fanmingming.com/tv/四川卫视.png",
-        "stream": "https://node1.olelive.com:6443/live/CCTV15HD/hls.m3u8",
+        "stream": "http://bb2b58.netsite.cc/proxy/1727775864/1727775864.m3u8",
+        "status": true,
+        "created_at": "0001-01-01T00:00:00Z",
+        "updated_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "id": 43,
+        "name": "新疆卫视",
+        "alt_names": "新疆卫视",
+        "label": "卫视",
+        "country": "CN",
+        "languages": "Chinese",
+        "is_nsfw": false,
+        "logo": "https://live.fanmingming.com/tv/新疆卫视.png",
+        "stream": "http://bb2b58.netsite.cc/proxy/1423426614/1423426614.m3u8",
         "status": true,
         "created_at": "0001-01-01T00:00:00Z",
         "updated_at": "0001-01-01T00:00:00Z"
@@ -348,7 +362,21 @@
         "languages": "Chinese",
         "is_nsfw": false,
         "logo": "https://live.fanmingming.com/tv/海南卫视.png",
-        "stream": "https://node1.olelive.com:6443/live/CCTV15HD/hls.m3u8",
+        "stream": "http://bb2b58.netsite.cc/proxy/2019508840/2019508840.m3u8",
+        "status": true,
+        "created_at": "0001-01-01T00:00:00Z",
+        "updated_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "id": 47,
+        "name": "三沙卫视",
+        "alt_names": "三沙卫视",
+        "label": "卫视",
+        "country": "CN",
+        "languages": "Chinese",
+        "is_nsfw": false,
+        "logo": "https://live.fanmingming.com/tv/三沙卫视.png",
+        "stream": "http://bb2b58.netsite.cc/proxy/1337100319/1337100319.m3u8",
         "status": true,
         "created_at": "0001-01-01T00:00:00Z",
         "updated_at": "0001-01-01T00:00:00Z"
@@ -546,7 +574,7 @@
         "languages": "Chinese",
         "is_nsfw": false,
         "logo": "https://live.fanmingming.com/tv/CCTV13.png",
-        "stream": "https://z02.ubtvfans.com/live/rx1/2754/6af3790526c998efb530dbc9753488ed/index.m3u8",
+        "stream": "https://z02.ubtvfans.com/live/rx1/213/4985ed10e25b72869efa7f2f7b839f1a/index.m3u8",
         "status": true,
         "created_at": "0001-01-01T00:00:00Z",
         "updated_at": "0001-01-01T00:00:00Z"
@@ -560,7 +588,7 @@
         "languages": "Chinese",
         "is_nsfw": false,
         "logo": "https://live.fanmingming.com/tv/CCTV14.png",
-        "stream": "https://node1.olelive.com:6443/live/CCTV14HD/hls.m3u8",
+        "stream": "https://z02.ubtvfans.com/live/rx1/2826/d67e1463762a9812875a58ce0777214a/index.m3u8",
         "status": true,
         "created_at": "0001-01-01T00:00:00Z",
         "updated_at": "0001-01-01T00:00:00Z"
@@ -574,7 +602,7 @@
         "languages": "Chinese",
         "is_nsfw": false,
         "logo": "https://live.fanmingming.com/tv/CCTV15.png",
-        "stream": "https://node1.olelive.com:6443/live/CCTV15HD/hls.m3u8",
+        "stream": "https://z02.ubtvfans.com/live/rx1/215/f205393253508a0862e35601340344ef/index.m3u8",
         "status": true,
         "created_at": "0001-01-01T00:00:00Z",
         "updated_at": "0001-01-01T00:00:00Z"

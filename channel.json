@@ -362,7 +362,7 @@
         "languages": "Chinese",
         "is_nsfw": false,
         "logo": "https://live.fanmingming.com/tv/河南卫视.png",
-        "stream": "http://bb2b58.netsite.cc/proxy/1919483832/1919483832.m3u8",
+        "stream": "http://58.216.99.148:80/live2.rxip.sc96655.com/live/hnws35_4000.m3u8",
         "status": true,
         "created_at": "0001-01-01T00:00:00Z",
         "updated_at": "0001-01-01T00:00:00Z"

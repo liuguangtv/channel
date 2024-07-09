@@ -40,7 +40,7 @@
         "languages": "Chinese",
         "is_nsfw": false,
         "logo": "https://live.fanmingming.com/tv/天津卫视.png",
-        "stream": "http://xyt.186738613.xyz/lngd.php?id=084&Cf.m3u8",
+        "stream": "http://58.216.99.148:80/live2.rxip.sc96655.com/live/tjwsH265_4000.m3u8",
         "status": true,
         "created_at": "0001-01-01T00:00:00Z",
         "updated_at": "0001-01-01T00:00:00Z"

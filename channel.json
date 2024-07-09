@@ -639,14 +639,14 @@
       },
       {
         "id": 49,
-        "name": "tvbs",
-        "alt_names": "TVBS",
+        "name": "Phoenix InfoNews",
+        "alt_names": "凤凰资讯",
         "label": "港澳台",
         "country": "CN",
         "languages": "Chinese",
         "is_nsfw": false,
-        "logo": "https://live.fanmingming.com/tv/TVBS.png",
-        "stream": "http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8",
+        "logo": "https://live.fanmingming.com/tv/凤凰资讯.png",
+        "stream": "https://z02.ubtvfans.com/live/rx1/2811/33a7203bc62f06ac6919c464a7749544/index.m3u8",
         "status": true,
         "created_at": "0001-01-01T00:00:00Z",
         "updated_at": "0001-01-01T00:00:00Z"

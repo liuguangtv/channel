@@ -194,7 +194,7 @@
         "languages": "Chinese",
         "is_nsfw": false,
         "logo": "https://live.fanmingming.com/tv/湖南卫视.png",
-        "stream": "https://z02.ubtvfans.com/live/rx1/226/55a22545744461ea0ae4b1df0869aade/index.m3u8",
+        "stream": "https://traefik.genuniverse.org/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225506/index.m3u8",
         "status": true,
         "created_at": "0001-01-01T00:00:00Z",
         "updated_at": "0001-01-01T00:00:00Z"

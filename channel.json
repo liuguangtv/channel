@@ -476,7 +476,7 @@
         "languages": "Chinese",
         "is_nsfw": false,
         "logo": "https://live.fanmingming.com/tv/CCTV5+.png",
-        "stream": "http://58.216.99.148/live2.rxip.sc96655.com/live/CCTV-5plusH265_4000.m3u8",
+        "stream": "https://spring-hill-35c8.networks-1.workers.dev/live/cctv-5+/getStream.m3u8",
         "status": true,
         "created_at": "0001-01-01T00:00:00Z",
         "updated_at": "0001-01-01T00:00:00Z"
